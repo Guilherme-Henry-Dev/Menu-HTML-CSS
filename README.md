@@ -52,7 +52,7 @@ O site foi desenvolvido com foco em um layout responsivo, adaptando-se perfeitam
 - 🔁 Uso de **media queries** para ajustes dinâmicos
 - 🔀 Reorganização de elementos em telas menores
 
-![THEBANK - Captura de Tela] (src/desing/imagem-responsiva.jpg)
+![THEBANK - Captura de Tela](src/desing/imagem-responsiva.jpg)
 
 ---
 ## 📌 Status do Projeto
