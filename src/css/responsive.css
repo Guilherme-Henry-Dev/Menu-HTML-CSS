@@ -1,0 +1,30 @@
+@media(max-width: 850px){
+    .cabecalho{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+    }
+
+    .logo .titulo{
+        font-size: 20px;
+        padding-left: 20px;
+    }
+
+    .menu{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        margin-top: 50px;
+    }
+    
+    .navegacao .menu .item{
+     padding: 30px 0px;
+    }
+    
+    .navegacao .menu .item a{
+        font-size: 25px;
+        padding: 17px 40px;
+    }
+}
